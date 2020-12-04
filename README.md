@@ -13,6 +13,7 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-iof0n1798098jgmlhcbk258gf.vercel.app/api/spotify-playing" alt="Gyanesh Samanta Spotify Playing" width="350" />](https://open.spotify.com/user/iof0n1798098jgmlhcbk258gf?si=FWMg6NdWQ3OaniIIBQkWcQ)
+ #P.S I'm still working on this part
 
 
 ### Connect with me:
