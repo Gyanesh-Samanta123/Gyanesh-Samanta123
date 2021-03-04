@@ -4,16 +4,11 @@
 
 ## I'm a Sophomore at SRM University, Kattankulathur.
 
-- 🔭 I'm refining my IoT project, "Arduino Sunflower" Contributions are welcome!
-- 🌱 I’m currently learning Cyber Security and harnessing my skills in Raspberry Pi
+- 🔭 I'm adding on to my repository Competitive Programming and 100 days of code
+- 🌱 I’m currently learning Flutter and Python 3.
 - 👯 I’m looking to collaborate with other developers on IoT projects or web apps
 - 🥅 2020 Goals: Realise a tonne of my projects which are in their ideation phase
 - ⚡ Fun fact: I love to play the piano
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-iof0n1798098jgmlhcbk258gf.vercel.app/api/spotify-playing" alt="Gyanesh Samanta Spotify Playing" width="350" />](https://open.spotify.com/user/iof0n1798098jgmlhcbk258gf?si=FWMg6NdWQ3OaniIIBQkWcQ) <br />
- #P.S I'm still working on this part
 
 
 ### Connect with me:
