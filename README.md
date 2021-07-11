@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gyanesh Samanta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gyanesh Samanta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Gyanesh Samanta | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/52783096/125200074-e88d4700-e286-11eb-93fc-9e8c2eb782e2.png" />][linkedin]
+[<img align="left" alt="Gyanesh Samanta | Twitter" width="22px" src="https://user-images.githubusercontent.com/52783096/125200086-f773f980-e286-11eb-9369-3b4f80ba06e7.png" />][twitter]
 
 <br />
 
@@ -27,6 +27,11 @@
 
 <br />
 <br />
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=GyaneshSamanta&show_icons=true&theme=radical&count_private=true)</br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${GyaneshSamanta})
+
 
 [twitter]: https://twitter.com/samanta_gyanesh
 [linkedin]: https://www.linkedin.com/in/gyanesh-s-1a7a9b122/
