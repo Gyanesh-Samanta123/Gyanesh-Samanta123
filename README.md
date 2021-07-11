@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Samanta_Gyanesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSamanta_Gyanesh&screen_name=Samanta_Gyanesh)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${GyaneshSamanta})
+
 ## I'm a Sophomore at SRM University, Kattankulathur.
 
 - 🔭 I'm adding on to my repository Competitive Programming.
@@ -30,7 +32,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GyaneshSamanta&show_icons=true&theme=radical&count_private=true)</br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${GyaneshSamanta})
+
 
 
 [twitter]: https://twitter.com/samanta_gyanesh
