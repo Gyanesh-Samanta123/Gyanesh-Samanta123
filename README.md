@@ -7,7 +7,7 @@
 ## I'm a Sophomore at SRM University, Kattankulathur.
 
 - 🔭 I'm adding on to my repository Competitive Programming.
-- 🌱 I’m currently learning Machine Learning and Firebase.
+- 🌱 I’m currently learning Machine Learning and Data Science.
 - 👯 I’m looking to collaborate with other developers on IoT projects.
 - 🥅 2021 Goals: Get more into the development part of coding apart from Competitive Programming. 
 - ⚡ Fun fact: I love to play the Piano.
