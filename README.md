@@ -29,7 +29,7 @@
 <br />
 
 <!--<a href="https://github.com/ampsteric/ampsteric" align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GyaneshSamanta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gyanesh's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GyaneshSamanta&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gyanesh's GitHub Stats" />
 </a>-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyaneshSamanta&theme=monokai) 
