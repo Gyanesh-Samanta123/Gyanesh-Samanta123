@@ -1,7 +1,5 @@
 ### Hey Everyone, I'm Gyanesh Samanta, a junior year student at SRMIST, kattankulathur! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Samanta_Gyanesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSamanta_Gyanesh&screen_name=Samanta_Gyanesh)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${GyaneshSamanta})
 
 ## I'm a Sophomore at SRM University, Kattankulathur.
@@ -30,7 +28,11 @@
 <br />
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=GyaneshSamanta&show_icons=true&theme=radical&count_private=true)</br>
+<!--<a href="https://github.com/ampsteric/ampsteric" align="right">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GyaneshSamanta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gyanesh's GitHub Stats" />
+</a>-->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyaneshSamanta&theme=monokai) 
 
 
 
