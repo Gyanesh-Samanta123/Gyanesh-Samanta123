@@ -1,6 +1,6 @@
-### Hey Everyone, I'm Gyanesh Samanta, a junior year student at SRMIST, kattankulathur! 👋
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyaneshSamanta&theme=monokai) 
 
-## I'm a Sophomore at SRM University, Kattankulathur.
+## I'm a Junior year student at SRM University, Kattankulathur.
 
 - 🔭 I'm adding on to my repository Competitive Programming.
 - 🌱 I’m currently learning Machine Learning and Data Science.
@@ -13,17 +13,9 @@
 
 
 
- - ![Twitter](https://img.shields.io/twitter/follow/samanta_gyanesh?color=1DA1F2&logo=Twitter&style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/samanta_gyanesh?color=1DA1F2&logo=Twitter&style=for-the-badge)
+[<img align="left" alt="Gyanesh Samanta | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/52783096/125200074-e88d4700-e286-11eb-93fc-9e8c2eb782e2.png" />][linkedin]
 
-
- - [<img align="left" alt="Gyanesh Samanta | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/52783096/125200074-e88d4700-e286-11eb-93fc-9e8c2eb782e2.png" />][linkedin]
-
-### Languages and Tools:
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
@@ -32,10 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GyaneshSamanta&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gyanesh's GitHub Stats" />
 </a>-->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyaneshSamanta&theme=monokai) 
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${GyaneshSamanta})
 
 
 
