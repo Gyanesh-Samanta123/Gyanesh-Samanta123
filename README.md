@@ -1,7 +1,5 @@
 ### Hey Everyone, I'm Gyanesh Samanta, a junior year student at SRMIST, kattankulathur! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${GyaneshSamanta})
-
 ## I'm a Sophomore at SRM University, Kattankulathur.
 
 - 🔭 I'm adding on to my repository Competitive Programming.
@@ -13,10 +11,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gyanesh Samanta | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/52783096/125200074-e88d4700-e286-11eb-93fc-9e8c2eb782e2.png" />][linkedin]
-[<img align="left" alt="Gyanesh Samanta | Twitter" width="22px" src="https://user-images.githubusercontent.com/52783096/125200086-f773f980-e286-11eb-9369-3b4f80ba06e7.png" />][twitter]
 
-<br />
+
+ - ![Twitter](https://img.shields.io/twitter/follow/samanta_gyanesh?color=1DA1F2&logo=Twitter&style=for-the-badge)
+
+
+ - [<img align="left" alt="Gyanesh Samanta | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/52783096/125200074-e88d4700-e286-11eb-93fc-9e8c2eb782e2.png" />][linkedin]
 
 ### Languages and Tools:
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
@@ -34,6 +34,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyaneshSamanta&theme=monokai) 
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${GyaneshSamanta})
 
 
 
