@@ -10,7 +10,7 @@
 
 Hey programmers! Welcome to my Github Profile. 
 I'm Gyanesh Samanta a junior year student at SRMIST, Kattankulathur. <br />
-Here you'll find Repositories for Competitive Programming, IoT, Game Development and Machine learning. I'm looking forward to collaborating with people on Arduino/Raspberry Pi projects.  
+Here you'll find Repositories for Competitive Programming, IoT, Game Development and Machine learning.  
 
 
 ### Connect with me:
