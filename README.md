@@ -27,4 +27,4 @@ Here you'll find Repositories for Competitive Programming, IoT, Game Development
 
 ### Contribution Graph
 
-![contribution_gif](https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake.gif)
+![contribution_gif_dark](https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake-dark.gif)
