@@ -18,13 +18,8 @@ Here you'll find Repositories for Competitive Programming, IoT, Game Development
 
 
 ![Twitter](https://img.shields.io/twitter/follow/samanta_gyanesh?color=1DA1F2&logo=Twitter&style=for-the-badge)
-  
-
-
 <br />
 <br />
-
-
 ### Contribution Graph
 <p align ="center">
 
