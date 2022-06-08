@@ -23,7 +23,3 @@ Here you'll find Repositories for Competitive Programming, IoT, Game Development
 
 <br />
 <br />
-
-
-
-
