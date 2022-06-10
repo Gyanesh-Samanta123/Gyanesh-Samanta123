@@ -9,5 +9,4 @@ Here you'll find Repositories for Solidity, Machine Learning, IoT and all of my 
 <img src = "https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake.gif"></center>
 </p>
 
-### Connect with me:
 ![Twitter](https://img.shields.io/twitter/follow/samanta_gyanesh?color=1DA1F2&logo=Twitter&style=for-the-badge)
