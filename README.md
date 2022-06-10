@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/52783096/127765507-86d842cf-28c5-47da-9ee4-fd2b20fee989.png"
-     alt="Markdown Monster icon" />
+![Banner](Repository-Assests/Banner.png) 
 <div align="center">
 
 Welcome to my Github Profile. 
