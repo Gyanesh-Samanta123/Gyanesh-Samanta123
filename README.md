@@ -8,6 +8,4 @@ Data is the new oil, and data driven stories are the automobiles that convert da
 <img src = "https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake.gif"></center>
 </p>
 
-![Twitter](https://img.shields.io/twitter/follow/samanta_gyanesh?color=1DA1F2&logo=Twitter&style=for-the-badge)
-
 ![Contribution-graph](https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake-dark.svg)
