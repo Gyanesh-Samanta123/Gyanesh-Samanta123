@@ -1,4 +1,4 @@
-![Banner](Repository-Assests/Cover.png) 
+![Banner](Repository-Assests/Cover1.png) 
 <div align="center">
 
 I believe in making data mean more through story telling. A few years ago, a data story teller was unknown. I, myself was on the path to be a ML engineer who dived deep into data and got himself into data science. I believe the thought provoking stories that lie behind a dataset is of prime importance. 
