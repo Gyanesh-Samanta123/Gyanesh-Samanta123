@@ -4,7 +4,7 @@ on:
   # run automatically every 6 hours
   schedule:
     - cron: 
-      schedule: every 24 hours
+      schedule: every 48 hours
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -19,7 +19,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
