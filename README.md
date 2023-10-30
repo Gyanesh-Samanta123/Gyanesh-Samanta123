@@ -1,9 +1,9 @@
 ![Banner](Repository-Assests/Cover1.png) 
 <div align="center">
-
-I believe in making data mean more through story telling. A few years ago, a data story teller was unknown. I, myself was on the path to be a ML engineer who dived deep into data and got himself into data science. I believe the thought provoking stories that lie behind a dataset is of prime importance. 
-<br>
-Data is the new oil, and data driven stories are the automobiles that convert data into meaningful energy for companies. I help build the automobile for your simplicity and growth.   
+Harnessing data to drive product excellence should be seamless—not an obstacle. I've dedicated my expertise to ensuring that the intricate dance between data and product innovation works harmoniously for you, your enterprise, and your teams.
+Visualize data-driven product solutions that amplify efficiency, allowing you to take insights on events.
+Innovations that mold to your specific requirements, so you can zero in on your core objectives.
+Elevate your endeavors with data insights and product innovation that synchronize. 
 <p align ="center">
 <img src = "https://github.com/GyaneshSamanta/GyaneshSamanta/blob/output/github-contribution-grid-snake.gif"></center>
 </p>
